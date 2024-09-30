@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>cache.cache.CacheServer</mainClass>
+                            <mainClass>cache.CacheServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
