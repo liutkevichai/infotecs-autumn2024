@@ -1,4 +1,4 @@
-package com.cache;
+package cache;
 
 import java.io.File;
 import java.io.FileOutputStream;
