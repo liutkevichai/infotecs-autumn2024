@@ -1,4 +1,4 @@
-package com.cache;
+package cache.cache.client;
 
 import java.io.IOException;
 import java.net.URI;

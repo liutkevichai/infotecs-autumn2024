@@ -1,4 +1,4 @@
-package com.cache;
+package cache.cache;
 
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpExchange;

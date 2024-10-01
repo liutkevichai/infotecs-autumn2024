@@ -1,5 +1,7 @@
-package com.cache;
+package cache.cache;
 
+import cache.cache.CacheServer;
+import cache.cache.CacheService;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
